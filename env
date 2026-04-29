@@ -1,0 +1,14 @@
+# System Database Connections 
+SYSTEM_DB_USER=admin
+SYSTEM_DB_PASSWORD=adminpass
+SYSTEM_DB_NAME=system_metadata
+SYSTEM_DB_HOST=db
+SYSTEM_DB_PORT=5432
+
+# Basic Authentication Credentials 
+AUTH_USERNAME=admin
+AUTH_PASSWORD=secret
+
+# LLM Connection Parameters 
+OPENAI_API_KEY=API_KEY
+OPENAI_BASE_URL=https://api.openai.com/v1
